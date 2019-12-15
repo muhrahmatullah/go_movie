@@ -68,9 +68,6 @@ PUT movies/{id}
 
 ```
 
-
-```
-
 ## App Info
 
 ### Author
