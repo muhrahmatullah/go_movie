@@ -36,7 +36,7 @@ DELETE movies/{id}
 ### Create Movie
 
 ``` bash
-POST movies/{id}
+POST movies/
 
 # Request sample
 {
